@@ -39,7 +39,3 @@ go build
 ```
 
 Make sure to replace `[options]` with the appropriate values for your MQTT setup.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
